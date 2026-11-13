@@ -1175,6 +1175,3 @@ def run():
             reset_system(); st.rerun()
     else:
         s.step = 'start'; st.rerun()
-
-    # Total if/else count: 273  (if + elif + else statements)
-    # Total questions: 70  (60 Yes/No symptom questions + 10 report inputs; 10 car problems)
